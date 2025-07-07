@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<be>
+<br>
 
 
 GitHub Stats  <br>![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaj001&show_icons=true&theme=radical)<br>

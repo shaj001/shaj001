@@ -1,11 +1,11 @@
 ![cover img](./cover.png)
 ### Hi, I'm Sharad kumar AKA Sherry 👋  <br>💻 2+ years of experience in Web Development & Graphic Design  <br>🌌 Interested in Astronomy, AI, and Startup Innovation  <br>📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle)<br><br>🛠️ Languages & Tools  <br>![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5)<br>![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)<br>![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)<br>![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)<br><br>📊 
 
-<!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
 GitHub Stats  <br>![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaj001&show_icons=true&theme=radical)<br>
 
 
